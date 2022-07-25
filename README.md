@@ -1,9 +1,9 @@
 # Apple_Stock_Prediction
 
 
-
-
-                                       <-------------------------CLOSING STOCK OF APPLE------------------------------>
+                                  <-------------------------CLOSING STOCK OF APPLE------------------------------>
+                                  
+                                  
 #                                                                      FROM (2014-2021)
 <img src=https://raw.githubusercontent.com/eli-shen08/Apple_Stock_Prediction/main/Capture1.PNG style="width:100%"/>
 
