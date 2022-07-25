@@ -1,7 +1,11 @@
 # Apple_Stock_Prediction
 
-<-------------------------CLOSING STOCK OF APPLE------------------------------>
 
+
+
+                                       <-------------------------CLOSING STOCK OF APPLE------------------------------>
+#                                                                      FROM (2014-2021)
+<img src=https://raw.githubusercontent.com/eli-shen08/Apple_Stock_Prediction/main/Capture1.PNG style="width:100%"/>
 
 
 
@@ -15,3 +19,6 @@ I have used LSTM neural network thorugh which i had been able to achieve an extr
 
 
 <img src=https://raw.githubusercontent.com/eli-shen08/Apple_Stock_Prediction/main/Capture.PNG style="width:100%"/>
+
+
+# The above graph shows how close my LSTM model was predicting the closing price 
